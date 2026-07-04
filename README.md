@@ -183,24 +183,14 @@ JWT_SECRET=your_secret_key
 
 ---
 
-# 🤝 Contributing
+## 🎯 Key Highlights
 
-Contributions are welcome!
+- JWT-based Authentication
+- Role-based Access Control (Admin & Resident)
+- RESTful API Integration
+- MongoDB Atlas Database
+- Responsive User Interface
+- MERN Stack Architecture
+- Frontend deployed on Vercel
+- Backend deployed on Render
 
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push the branch
-5. Open a Pull Request
-
----
-
-# ⭐ Show Your Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
----
-
-# 📄 License
-
-This project is developed for educational and learning purposes.
