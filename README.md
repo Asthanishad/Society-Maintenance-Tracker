@@ -155,7 +155,7 @@ JWT_SECRET=your_secret_key
 
 | Login Page | Resident Dashboard |
 |------------|--------------------|
-| ![](./Screenshots/LoginPage.png) | ![](./Screenshots\Resident-Dashboard.png) |
+| ![](./Screenshots/LoginPage.png) | ![](./Screenshots/ResidentDashboard.png) |
 
 | Admin Dashboard | Complaint Management |
 |-----------------|----------------------|
