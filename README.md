@@ -146,8 +146,8 @@ JWT_SECRET=your_secret_key
 
 | Service | URL |
 |---------|-----|
-| Frontend | **Add Your Vercel Link** |
-| Backend API | **Add Your Render Link** |
+| Frontend | https://vercel.com/astha-nishad/society-maintenance-tracker |
+| Backend API | https://society-maintenance-tracker-ityd.onrender.com |
 
 ---
 
@@ -155,11 +155,11 @@ JWT_SECRET=your_secret_key
 
 | Login Page | Resident Dashboard |
 |------------|--------------------|
-| Add Screenshot | Add Screenshot |
+| ![](./LoginPage.png) | ![](./Resident Dashboard.png) |
 
 | Admin Dashboard | Complaint Management |
 |-----------------|----------------------|
-| Add Screenshot | Add Screenshot |
+| ![](./Admin Dashboard.png) | ![](./Admin Complaint Management.png) |
 
 ---
 
